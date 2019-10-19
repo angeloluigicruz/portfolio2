@@ -1,0 +1,35 @@
+.card {
+    border: 1px solid gray  ;
+    margin: 30px;
+    text-align: center;
+    margin-bottom: 100px;
+}   
+
+#card1 {
+    position: static;
+    float:left;
+    margin-left: 275px;
+}
+
+#card2 {
+    position: static;
+    float: left;
+    margin-left: 275px;
+}
+
+#btmfooter {
+    clear: left;
+    text-align: right;
+    color: white;
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url("../images/background2.jpg");
+    background-size: cover;
+}
+
+.projects {
+    background-color: rgb(199, 195, 195);
+}
